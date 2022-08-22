@@ -1,0 +1,1 @@
+Enter 'S' to Spin, 'B' to buy a vowel, or 'G' to guess the word!
