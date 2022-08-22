@@ -8,6 +8,7 @@ in the command prompt. The reason we need this particular version is because the
 However, I've programmed it so that the program will run even without this library. (As in, you will not be prompted to enable audio).
 
 If you're one of the instructors, however, if you want to get through everything as quickly as possible, I recommend keeping audio disabled.
+On a similar vein, "debug mode" is just a convenient way of viewing the answers. I recommend this to be selected as well.
 
 The sound effects were taken from this video: https://www.youtube.com/watch?v=5YECHrV_W3I
 
