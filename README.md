@@ -1,11 +1,11 @@
 # Wheel-of-Fortune
 
-For the full experience, please install playsound 1.2.2. This can be done by typing in 
+For the full experience, please install the playsound library, version 1.2.2. This can be done by typing in 
 
 pip install playsound==1.2.2
 
 in the command prompt. The reason we need this particular version is because there's an issue with the current version in regards to file reading.
-How
+However, I've programmed it so that the program will run even without this library.
 
 The sound effects were taken from this video: https://www.youtube.com/watch?v=5YECHrV_W3I
 
