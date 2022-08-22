@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Aug 19 22:48:18 2022
-
-@author: Ryan Gamilo
-"""
-
 from config import wheeltextloc
 
 f = open(wheeltextloc, "w")
